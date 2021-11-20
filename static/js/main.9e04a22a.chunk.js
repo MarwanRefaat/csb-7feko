@@ -1,0 +1,2 @@
+(this["webpackJsonpframer-code-exemplars"]=this["webpackJsonpframer-code-exemplars"]||[]).push([[0],{10:function(e,t,c){"use strict";c.r(t);var s=c(3),n=(c(8),c(0));function r(){return Object(n.jsxs)("div",{className:"App",children:[Object(n.jsx)("h1",{children:"Hello GameFi"}),Object(n.jsx)("h2",{children:"Start editing to see some magic happen!"})]})}const i=document.getElementById("root");Object(s.render)(Object(n.jsx)(r,{}),i)},8:function(e,t,c){}},[[10,1,2]]]);
+//# sourceMappingURL=main.9e04a22a.chunk.js.map
